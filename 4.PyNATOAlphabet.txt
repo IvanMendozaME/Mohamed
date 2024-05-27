@@ -1,0 +1,7 @@
+			NATOAlphabet
+
+In this projects we will know what is nato alphabet and also, know how to work with it.
+
+For execute this project a csv file named nato_phonetic_alphabet.csv is used, in this file every letter of the alphabet is related with the equivalent in  nato alphabet. 
+
+The code consist in introduce a word, whose letters will be related with the equivalent in nato alphabet.

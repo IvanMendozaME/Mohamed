@@ -1,0 +1,6 @@
+				Merge Mails
+
+
+The purpose of this project is to create a letter for different people. Using a letter baseline and a text file with the names of people to whom the letter is intended to be sent. 
+
+This project is so easy to understand and very practical due to the same concept can be used to avoid the creation different files which will contain almost the same information, but just a little thing will change. 

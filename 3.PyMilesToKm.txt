@@ -1,0 +1,5 @@
+		MilesToKm
+
+This projects has been created to remember the main concepts to create a GUI with Tkinter.
+
+The function of this projects is make the conversion from Mile to Km using the formula to get it. You can calculate the equivalence all times as you want.
